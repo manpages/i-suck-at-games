@@ -2,8 +2,10 @@ Attention
 ===
 
  + Wrong micro
-  + First move unit or a group in a direction then pay attention to
-    macro, then finish the movement directives.
+  + Using overcharge v Z when he doesn't really pushes and/or when 
+    I don't have enough sentries
+  + Don't release zealot(s) too far from 1-square holes and/or 
+    building surface when defending 6-pool.
  + Wrong priorities
   + Units and probes first
   + Spotting pylons are cute but should scout starport first
@@ -11,9 +13,11 @@ Attention
 Build
 ===
 
- + I'm not following the build at all.
+ + Scouting and/or dealing with his early scout slightly sets the 
+   build off.
 
 Transitions
 ===
 
- + I fail to use my deductions to adjust the game plan, see Attention
+ + When playing v Z transitioning into zealot/colossi is stupid.
+   Do either zealot/archon or sentry/colossi.
