@@ -1,5 +1,5 @@
 Builds are kindly collected and maintained by http://imbabuilds.com
-I´ll shift the builds according to the “bronze league” meta and stuff.
+updated by me to match “bronze league” metagame.
 
 PvZ
 ===
@@ -40,6 +40,7 @@ PvT
 PvP
 ===
 
+  + @100% Probe — scout with it
   + 9 – Pylon
   + 13 – Gateway
   + 15 – Assimilator
