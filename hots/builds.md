@@ -1,6 +1,3 @@
-Builds are kindly collected and maintained by http://imbabuilds.com
-updated by me to match “bronze league” metagame.
-
 PvZ
 ===
   + 9 - Pylon
@@ -13,6 +10,11 @@ PvZ
   + 21 – Mothership Core
   + 23 – Warpgate Research
   Benchmark: When your Mothership Core finishes (@4:10ish), you should have 21 Probes, a Mothership Core, and Warpgate around 20 seconds into the research.
+  
+  VoDs
+  ----
+  
+  + Welmu v Targa, WCS EU, Ro16 S3 Premier League — DT/Zealot Build
 
 PvT
 ===
