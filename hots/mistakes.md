@@ -6,9 +6,12 @@ Attention
     I don't have enough sentries
   + Don't release zealot(s) too far from 1-square holes and/or 
     building surface when defending 6-pool.
+  + Never keep mocore in the same control group with main army
  + Wrong priorities
   + Units and probes first
   + Spotting pylons are cute but should scout starport first
+  + If you have money accumulating, build fucking cannons, just 
+    one or two per base. Can save your life, esp. in PvP.
 
 Build
 ===
