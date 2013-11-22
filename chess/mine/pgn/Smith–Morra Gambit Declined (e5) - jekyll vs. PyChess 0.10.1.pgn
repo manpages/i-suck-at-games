@@ -1,0 +1,19 @@
+[Event "PyBoard Practice Sessions"]
+[Site "Reslav's Place"]
+[Date "2013.11.22"]
+[Round "1"]
+[White "jekyll"]
+[Black "PyChess 0.10.1"]
+[Result "0-1"]
+[TimeControl "2400+15"]
+[Time "17:22:00"]
+[WhiteClock "0:23:15.091"]
+[BlackClock "0:26:34.707"]
+[PlyCount "65"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. Nf3 dxc3 5. Nxc3 f6 6. Bc4 Bc5 7. Qd5 Qe7 8.
+O-O Nc6 9. Be3 Bxe3 10. fxe3 Nb4 11. Qa5 b6 12. Qa3 Nc2 13. Qxe7+ Nxe7 14. Rac1
+Nxe3 15. Rf2 Nxc4 16. Nb5 Kd8 17. Rxc4 Ba6 18. a4 d5 19. exd5 g6 20. Rd2 Rc8
+21. b3 Rxc4 22. bxc4 Nf5 23. Kf2 e4 24. Re2 exf3 25. Kxf3 Bxb5 26. axb5 Nd4+
+27. Ke3 Re8+ 28. Kxd4 Rxe2 29. d6 Rxg2 30. c5 Rxh2 31. c6 Rd2+ 32. Kc4 Rxd6 33.
+Kb4 0-1
