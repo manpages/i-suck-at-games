@@ -1,0 +1,19 @@
+[Event "Open Games"]
+[Site "Local Site"]
+[Date "2013.11.23"]
+[Round "1"]
+[White "Unknown"]
+[Black "PyChess 0.10.1"]
+[Result "1-0"]
+[TimeControl "2400+15"]
+[Time "09:10:00"]
+[WhiteClock "0:36:58.130"]
+[BlackClock "0:35:07.513"]
+[PlyCount "67"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 Ne5 6. Bb3 Nf6 7. Nge2 Nh5 8.
+f4 e6 9. fxe5 Bb4 10. O-O Qc7 11. Nb1 Qxe5 12. Nd4 Bc5 13. Be3 Qxe4 14. Qxh5
+Qxe3+ 15. Kh1 Bxd4 16. Qxf7+ Kd8 17. Qh5 Bxb2 18. Na3 Qh6 19. Qc5 Bxa1 20. Rxa1
+Qh4 21. Nb5 Qf6 22. Re1 a5 23. Nc7 Rb8 24. Qd6 Qf2 25. Nxe6+ Ke8 26. Nc7+ Kd8
+27. Rc1 Qb2 28. Ne6+ Ke8 29. Nxg7+ Kd8 30. Qb6+ Ke7 31. Nf5+ Ke8 32. Qe3+ Qe5
+33. Qxe5+ Kd8 34. Qxh8# 1-0

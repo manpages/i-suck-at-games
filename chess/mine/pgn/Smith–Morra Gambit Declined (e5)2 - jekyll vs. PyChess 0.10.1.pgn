@@ -1,0 +1,20 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2013.11.23"]
+[Round "1"]
+[White "jekyll"]
+[Black "PyChess 0.10.1"]
+[Result "0-1"]
+[TimeControl "2400+15"]
+[Time "05:58:00"]
+[WhiteClock "0:37:58.477"]
+[BlackClock "0:27:10.031"]
+[PlyCount "84"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. g3 Bc5 5. f4 dxc3 6. Nxc3 Bxg1 7. Rxg1 exf4 8.
+Bxf4 Nf6 9. Rg2 Qb6 10. Qd6 Nc6 11. Nb5 Kd8 12. O-O-O Nxe4 13. Qc7+ Qxc7 14.
+Nxc7 Rb8 15. h4 d6 16. Nd5 Bg4 17. Rd3 Bh3 18. Rg1 Bxf1 19. Rxf1 Ne7 20. Nxe7
+Kxe7 21. Rfd1 f5 22. Bxd6+ Nxd6 23. Rxd6 Rhc8+ 24. Kb1 Rd8 25. Rxd8 Rxd8 26.
+Rxd8 Kxd8 27. Kc2 Ke7 28. Kd3 Ke6 29. Ke3 g6 30. Kf4 h6 31. g4 fxg4 32. Kxg4
+Ke5 33. b3 a5 34. a3 g5 35. hxg5 hxg5 36. Kxg5 Kd4 37. Kf4 Kc3 38. b4 a4 39.
+Ke4 Kb3 40. Kd3 Kxa3 41. Kc2 Kxb4 42. Kb1 a3 0-1
