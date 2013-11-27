@@ -1,0 +1,14 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2013.11.24"]
+[Round "1"]
+[White "jekyll"]
+[Black "PyChess 0.10.1"]
+[Result "0-1"]
+[TimeControl "300+0"]
+[Time "08:14:00"]
+[WhiteClock "0:04:23.464"]
+[BlackClock "0:04:35.540"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. e3 e5 3. dxe5 Ne4 4. f3 Qh4+ 5. g3 Nxg3 6. Bh3 Nxh1+ 0-1
