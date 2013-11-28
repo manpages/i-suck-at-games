@@ -1,0 +1,6 @@
+[Date "????.??.??"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.d4 Nc6 3.d5 Nd4 4.c3 Bc5 5.Be3 Nc2+ 6.Qxc2 Bxe3 7.fxe3 d6 8.Bb5+ c6 ( 8...Bd7 9.Na3 Qh4+ 10.g3 Qg5 11.Qa4 c6 12.dxc6 bxc6 13.Bxc6 Bxc6 14.Qxc6+ Kd8 15.Qxa8+ Kc7 16.Qxa7+ Kc8 17.O-O-O Qxe3+ ( 17...Qd8 18.Qxf7 Ne7 19.Qxg7 Qg8 20.Qh6 Ng6 ( 20...Kc7 ) ( 20...Qd8 21.Nb5 Qb6 22.Rxd6 Qxb5 23.Nf3 Qe2 24.Rhd1 Qxf3 25.Qe6+ Kb8 26.Qb3+ Kc8 27.R1d5 Qxe3+ 28.Kc2 Qxe4+ ( 28...Qxe4+ 29.Rd3 Qe2+ 30.Rd2 Qe4+ 31.R6d3 Nc6 32.Qe6+ Kc7 33.Re2 ( 33.Kb3 Nd4+ 34.Kc4 Nxe6+ ) ( 33.Qf7+ Kb6 34.Qf3 Qxf3 35.Rxf3 Rd8 36.Rfd3 e4 37.Rxd8 Nxd8 38.Rxd8 e3 39.Kd1 Kc5 40.b4+ Kc4 41.Rd3 ( 41.Rc8+ Kd3 42.Ke1 Ke4 43.Re8+ Kd3 44.Rxe3+ Kxe3 45.b5 Ke4 46.b6 Kd5 47.b7 Kc6 ) ) ) ) 21.Rxd6 ) ) 9.dxc6 bxc6 10.Bxc6+ 
+*
