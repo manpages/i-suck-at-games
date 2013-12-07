@@ -1,0 +1,14 @@
+[Event "Local Event"]
+[Site "Local Site"]
+[Date "2013.12.06"]
+[Round "1"]
+[White "hyde"]
+[Black "jekyll"]
+[Result "*"]
+[TimeControl "300+0"]
+[Time "13:50:00"]
+[WhiteClock "0:04:06.170"]
+[BlackClock "0:04:30.803"]
+[PlyCount "8"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 *

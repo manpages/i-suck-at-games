@@ -3,7 +3,28 @@
 [FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
 
 1.e4 e5 2.d4 Nc6 3.d5 Nd4 4.c3 Bc5 5.Be3 Nc2+ 6.Qxc2 Bxe3 7.fxe3 d6 8.Bb5+ c6 
-  ( 8...Bd7 9.Na3 Qh4+ 10.g3 Qg5 11.Qa4 c6 12.dxc6 bxc6 13.Bxc6 Bxc6 14.Qxc6+ Kd8 15.Qxa8+ Kc7 16.Qxa7+ Kc8 17.O-O-O Qxe3+ 
+  ( 8...Bd7 9.Na3 Qh4+ 10.g3 Qg5 11.Qa4 c6 
+    ( 11...Nf6 12.O-O-O Qxe3+ 13.Kb1 Nxe4 14.Ne2 
+      ( 14.Nh3 Nf2 15.Nxf2 Qxf2 16.Rdf1 Qg2 17.Qc2 Qh3 18.Qf5 Qxf5+ 19.Rxf5 Bxb5 20.Nxb5 O-O 21.Nxc7 Rad8         ( 21...Rac8 22.Rhf1 
+          ( 22.Nb5 Rce8 
+            ( 22...g6 23.Rxe5 Rcd8 24.Rhe1 f5 25.Re6 
+              ( 25.Re7 a6 26.Nxd6 Rxd6 27.Re8 Rxe8 28.Rxe8+ Kg7 29.Rb8 Rxd5 30.Rxb7+ Kf6 31.Rb6+ Kg5 32.Rxa6 f4 33.gxf4+ Kxf4 34.Rf6+ Ke5 35.Rf7 Rd6 36.Rxh7 g5 
+                ( 36...Ra6 37.Re7+ Kd6 38.Re4 g5 39.Rg4 Ra5 40.b4 Kc6 
+                  ( 40...Rf5 41.Rd4+ Ke5 42.Rd5+ 
+                    ( 42.a4 Rf4 43.a5 g4 44.Rd3 Rf6 45.Re3+ Kd5 46.b5 Rg6 
+                      ( 46...Kc5 47.b6 ) 
+                    ) 
+                  ) 
+                ) 
+              ) 
+            ) 
+            23.Nxd6 
+          ) 
+          22...Rxc7 23.Rxf7 Rfxf7 24.Rxf7 Rxf7 
+        ) 
+      ) 
+    )
+    12.dxc6 bxc6 13.Bxc6 Bxc6 14.Qxc6+ Kd8 15.Qxa8+ Kc7 16.Qxa7+ Kc8 17.O-O-O Qxe3+ 
     ( 17...Qd8 18.Qxf7 Ne7 19.Qxg7 Qg8 20.Qh6 Ng6 
       ( 20...Kc7 ) 
       ( 20...Qd8 21.Nb5 Qb6 22.Rxd6 Qxb5 23.Nf3 Qe2 24.Rhd1 Qxf3 25.Qe6+ Kb8 26.Qb3+ Kc8 27.R1d5 Qxe3+ 28.Kc2 Qxe4+ 

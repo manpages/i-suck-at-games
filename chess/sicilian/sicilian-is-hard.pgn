@@ -1,0 +1,12 @@
+[Date "????.??.??"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 c5 2.d4 ( 2.Nf3 ) 2...Nc6 ( 2...cxd4 3.Nf3 ) 3.dxc5 e5 4.Be3 { We protect the c5 pawn, but black can easily apply additional pressure with b6, preparing a diagonal for the bishop. } ( 4.Nf3 Bxc5 ) ( 4.Qd5 { We protect the pawn in a very aggressive fashion here. ... f6 in response could be a mistake as it opens a mating possibilities for white (as seen further).
+ } 4...f6 ( 4...Nf6 5.Qb3 { Retreating while still looking at f7. } ( 5.Qc4 d5 6.exd5 Nxd5 7.Be3 Nxe3 8.fxe3 Be6 9.Qc3 Qd7 10.Bc4 O-O-O ( 10...Bxc5 11.Bxe6 Qxe6 12.Qxc5 O-O-O 13.Nf3 Qd5 14.Qxd5 Rxd5 15.c4 Rd7 16.Nc3 Rhd8 17.Nd5 b5 18.b3 e4 19.Nd4 Nxd4 20.exd4 ) 11.Nd2 ) 5...d5 { Here d5 is inacceptable, leads to total anihilation of black's queen side.
+  } ( 5...Bxc5 { We should simply go for what we wanted — c5.
+   } 6.Bc4 O-O { Danger of mate on f7 mitigated. } ) 6.exd5 Nxd5 7.Bc4 Nd4 { ?
+    } ( 7...Be6 8.Bb5 a6 9.Bxc6+ Ke7 10.Qxb7+ { Black is fucked.
+     } 10...Kf6 11.Qxa8 ) 8.Bb5+ Bd7 9.Qxd5 ) 5.Bc4 Nh6 { Bad mating defense becayse bishop on c1 is also attacking and after 6. Bxh6 we're screwed. } ( 5...Qe7 { Better, now we protect f7. } 6.Qf7+ Qxf7 7.Bxf7+ Kxf7 { After this exchange, by the looks of it, black is slightly ahead, even though the castling is no longer an option.
+      } ) 6.Bxh6 ) 4...b6 ( 4...Nf6 ) 
+      *
