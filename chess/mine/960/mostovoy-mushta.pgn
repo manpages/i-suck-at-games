@@ -1,11 +1,16 @@
-[Event "MMC: Mushta vs Mostovoy Correspondence"]
-[Site "Riga-Zagreb"]
+[Event "MMCC"]
+[Site "the Internet"]
 [Date "2013.11.28"]
 [Round "1"]
-[White "M"]
-[Black "M"]
+[White "Mushta"]
+[Black "Mostovoy"]
 [Result "*"]
+[TimeControl "2400+15"]
+[Time "12:59:00"]
+[WhiteClock "0:36:39.836"]
+[BlackClock "0:39:45.984"]
+[SetUp "1"]
 [FEN "brqknbnr/pppppppp/8/8/8/8/PPPPPPPP/BRQKNBNR w KQkq - 0 1"]
+[PlyCount "4"]
 
-
-*
+1. g3 b5 2. Bg2 Bxg2 *
