@@ -18,3 +18,10 @@
    Currently I have no fucking clue what to do. Don't even know how to
    think about this! Maybe I should watch a lot of plat / diamond ZvZ's
    and try thinking again. Maybe ask for help.
+
+ + In ZvT, sooner Lair, better preparation for drops, on Lair we can get
+   Infestors to catch those with fungal / corrosive bile combo.
+
+ + In ZvZ, if we're going for mutalisks, we have to have enough
+   speedlings to kill off roaches, or at least fight them reasonably
+   under sunken colonies.
